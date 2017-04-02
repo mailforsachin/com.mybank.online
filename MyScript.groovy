@@ -6,7 +6,7 @@ freeStyleJob('example') {
   
     steps {
         steps {
-        shell('python test.py')
+        shell('python MyScript.py')
     }
     }
    
