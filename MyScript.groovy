@@ -1,4 +1,4 @@
-freeStyleJob('example') {
+freeStyleJob('Automatic FSJ') {
     
     scm {
         git('https://github.com/mailforsachin/com.mybank.online.git', 'master')
